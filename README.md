@@ -9,3 +9,5 @@ When you open the (.PBIT) file, it will attempt to load data from the repository
 After Power BI loads the data, you can save it as a (.PBIX) file, which will have the data pre-loaded.
 
 The dashboard is currently online at [this link](https://app.powerbi.com/view?r=eyJrIjoiOTNhNWVjZmQtNDQ0ZS00NDA5LWJhYzgtMWU4YmU1Njc2YzlkIiwidCI6ImFlZGMzNjIwLTc1YWMtNDEzMi1hZGFiLTE5MTI5Yzg3MDc4YyIsImMiOjN9).
+
+**NOTE:** The GHGRP data on Open Data was recently updated to include facility submissions for 2017. This introduced some breaking changes, to be addressed in [Issue 1](https://github.com/GeorgeFlerovsky-Canada/GHGRP-Public/issues/1).
