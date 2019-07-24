@@ -13,3 +13,5 @@ Notes:
 – The dataset uses NAICS 2012 for 2004–2016, and NAICS 2017 for 2017.
 
 The dashboard is currently online at [this link](https://app.powerbi.com/view?r=eyJrIjoiOTNhNWVjZmQtNDQ0ZS00NDA5LWJhYzgtMWU4YmU1Njc2YzlkIiwidCI6ImFlZGMzNjIwLTc1YWMtNDEzMi1hZGFiLTE5MTI5Yzg3MDc4YyIsImMiOjN9).
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTNhNWVjZmQtNDQ0ZS00NDA5LWJhYzgtMWU4YmU1Njc2YzlkIiwidCI6ImFlZGMzNjIwLTc1YWMtNDEzMi1hZGFiLTE5MTI5Yzg3MDc4YyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
