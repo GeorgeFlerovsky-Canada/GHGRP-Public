@@ -1,4 +1,4 @@
-# GHGRP-Public
+# GHGRP public data dashboard (unofficial)
 
 This dashboard is based on the [GHG Reporting Program](https://www.canada.ca/en/environment-climate-change/services/climate-change/greenhouse-gas-emissions/facility-reporting.html), under which Canadian facilities are required to report their greenhouse gas (GHG) emissions to Environment and Climate Change Canada, if their total annual emissions exceed a regulatory threshold.
 
